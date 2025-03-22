@@ -10,7 +10,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between">
         <div className="flex items-center text-white ">
           <RouteIcon className="h-9 w-9 mr-2 hover:bg-transparent" />
-          <span className="text-xl font-semibold font-onest">Pathfinder</span>
+          <span className="text-xl font-semibold font-onest">mudhumeni</span>
         </div>
         <div className="flex items-center space-x-2">
           <ModeToggle />

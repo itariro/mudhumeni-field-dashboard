@@ -24,8 +24,8 @@ const onest = Onest({
 });
 
 export const metadata: Metadata = {
-  title: "Pathfinder",
-  description: "Pathfinder",
+  title: "Mudhumeni Field Dashboard",
+  description: "Mudhumeni Field Dashboard",
   icons: [
     { rel: "icon", url: "/images/favicon.ico" },
   ],
