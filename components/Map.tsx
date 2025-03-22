@@ -141,7 +141,7 @@ export default function Map() {
         <>
             <div className="w-full h-full">
                 <MapComponent
-                    mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN}
+                    mapboxAccessToken={process.env.MAPBOX_PUBLIC_KEY}
                     ref={measuredRef}
                     style={{
                         width: "100vw",

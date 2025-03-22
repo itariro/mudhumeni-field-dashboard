@@ -39,7 +39,7 @@ By participating in this project, you are expected to uphold our Code of Conduct
 
 2. Create a `.env.local` file in the root directory with your API tokens:
    ```
-   NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN=your_mapbox_token
+   MAPBOX_PUBLIC_KEY=your_mapbox_token
    OPENWEATHER_API_KEY=your_openweather_token_here
    ```
 

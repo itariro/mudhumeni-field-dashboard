@@ -51,7 +51,7 @@ yarn install
      ```
    - Open `.env.local` and add your Mapbox API key:
      ```env
-     NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN=your_mapbox_token_here
+     MAPBOX_PUBLIC_KEY=your_mapbox_token_here
      NEXT_PUBLIC_WEATHER_API_KEY=your_weather_api_key_here
      ```
    - Get your API keys from:
